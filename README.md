@@ -62,3 +62,50 @@ apexplanet-data-analytics/
 
 ## 🚀 Outcome
 Successfully completed Task 1 by performing data cleaning and exploratory data analysis using Python and Jupyter Notebook.
+
+# ApexPlanet Data Analytics - Task 2
+
+## Project Overview
+This project demonstrates SQL fundamentals, advanced SQL concepts, and Python-SQL integration using SQLite. The dataset was imported into SQLite, queried using SQL, and accessed through Python using SQLAlchemy and Pandas.
+
+## Tasks Completed
+- Created SQLite database
+- Imported Superstore dataset into SQLite
+- Executed SQL queries using:
+  - SELECT
+  - WHERE
+  - ORDER BY
+  - GROUP BY
+  - HAVING
+  - UPDATE
+  - DELETE
+  - ALTER TABLE
+  - CREATE VIEW
+- Connected Python with SQLite using SQLAlchemy
+- Executed SQL queries in Python using Pandas
+- Answered business questions using SQL queries
+- Created a reusable database connection script (`db_utils.py`)
+
+## Tools Used
+- Python
+- SQLite
+- SQLAlchemy
+- Pandas
+- Jupyter Notebook
+- GitHub
+
+## Project Structure
+
+```
+apexplanet-data-analytics/
+│
+├── data/
+├── notebooks/
+├── scripts/
+├── reports/
+├── dashboards/
+└── README.md
+```
+
+## Author
+Shree Vathy
